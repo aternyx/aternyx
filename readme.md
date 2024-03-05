@@ -57,8 +57,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aterny&locale=en&mode=weekly&theme=prussian&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aterny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aternyx&locale=en&mode=weekly&theme=prussian&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aternyx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
