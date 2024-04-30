@@ -9,8 +9,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++ (a bit)"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="RUST (a bit)"  />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=rust" height="30" alt="RUST (a bit)"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JS"  />
@@ -23,11 +23,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="LUA"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="KOTLIN (a bit)"  />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="KOTLIN (a bit)"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=qt" height="30" alt="QT (a bit)"  />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux (especially Debian and Arch distros)"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux (Arch, Debian, Gentoo, and other distros)"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="NGINX over apache"  />
   <img width="12" />
@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">- cybersecurity pentester<br>- programmer<br>- idk what else lol<br><br>aterny@shuriken.pm<br>t.me/aterny<br>x.com/aternalz</p>
+<p align="left">- cybersecurity pentester/researcher<br>- software programmer<br>- idk what else lol<br><br>aterny &lt;at&gt; shuriken.pm<br>t.me/aterny<br>x.com/aternalz</p>
 
 ###
 
