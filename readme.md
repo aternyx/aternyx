@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">- cybersecurity pentester/researcher<br>- software programmer<br>- idk what else lol<br><br>aterny &lt;at&gt; shuriken.pm<br>t.me/aterny<br>x.com/aternalz</p>
+<p align="left">- cybersecurity pentester/researcher<br>- software programmer<br>- idk what else lol<br><br>aterny &lt;at&gt; duga.to<br>t.me/aterny<br>x.com/aternalz</p>
 
 ###
 
