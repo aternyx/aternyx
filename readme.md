@@ -60,6 +60,7 @@ Laptop Specs:
 - GPU: nVIDIA GeForce GTX 1650 Mobile
 - RAM: 32GB (16x2) 3200mHz (Samsung, Crucial)
 - Builtin Display: 1920x1080px (FHD) 120hz IPS
+  
 Mouse i use: Logitech G502 Hero Wired
 
 ###
