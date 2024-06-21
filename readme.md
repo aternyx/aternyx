@@ -25,25 +25,19 @@
   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=qt" height="30" alt="QT (a bit)"  />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux (Arch, Debian, Gentoo, and other distros)"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux (Arch, Debian, Endeavor and other distros)"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="NGINX over apache"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MYSQLi (especially MariaDB)"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MariaDB"  />
   <br>
   <img src="https://skillicons.dev/icons?i=vim" height="30" alt="VIM"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VSCODE"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="VS Community (for windows projects)"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="Powershell over cmd"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="Photoshop"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="Illustrator"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="using vegas pro instead"  />
 </div>
 
 ###
